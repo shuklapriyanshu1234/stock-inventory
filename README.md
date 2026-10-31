@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏪 Store Automation App (Inventory Management System)
 
 ## 📋 Project Overview
@@ -87,3 +88,6 @@ RESTful API development
 Frontend–backend integration
 Data validation best practices
 Real-time UI updates
+=======
+# Inventory-Management
+>>>>>>> 7240fd6995bef1b4a2bdde4d92bc36fbd337cfca
